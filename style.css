@@ -136,3 +136,60 @@ body {
     background-color: #f2f2f2;
     color: black;
 }
+
+.teco {
+    color: #003b49;
+}
+#teco {
+    text-decoration: none;
+    padding: 15px 15px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #003b49;
+    align-items: center;
+}
+
+.evre {
+    color: #d50032;
+}
+#evre {
+    text-decoration: none;
+    padding: 15px 15px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #d50032;
+    align-items: center;
+}
+
+.block-banner {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.block-content {
+    align-items: center;
+    justify-content: center;
+}
+
+.text-block {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+
+#bc-1 {
+    background-color: #f6bfd9;
+    height: 500px;
+}
+
+#bc-2 {
+    background-color: #98cde4;
+    height: 500px;
+}
+
+
